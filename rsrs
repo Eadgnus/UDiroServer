@@ -1,0 +1,29 @@
+[33mcommit ff79c3877fc0b1276ca5932c01f65175c4ca73d9[m[33m ([m[1;36mHEAD -> [m[1;32meadgnus[m[33m, [m[1;31meadgnus/eadgnus[m[33m)[m
+Author: Eadgnus <de_crystal@naver.com>
+Date:   Mon May 29 15:17:56 2023 +0900
+
+    마이페이지 패치 찾기 1버전myaccount에서 반환된 user있나확인
+
+[33mcommit 04b71888923ee1241d30b630aebd416815017693[m
+Author: Eadgnus <de_crystal@naver.com>
+Date:   Mon May 29 03:15:38 2023 +0900
+
+    헤더메뉴 토큰값 if문, 코튼 굴리기 성공
+
+[33mcommit d7b7f8ff777a1f21572ce5c705b0d2a6ac186723[m
+Author: Eadgnus <de_crystal@naver.com>
+Date:   Mon May 29 01:20:16 2023 +0900
+
+    ejs서버 mypage myaccount 함수 추가
+
+[33mcommit dd670ae57cfba9efea26eb0e00b67fe254617830[m
+Author: Eadgnus <de_crystal@naver.com>
+Date:   Mon May 29 00:26:26 2023 +0900
+
+    지도 css, image 수정, 모달창 눈클릭시 나오게 수정
+
+[33mcommit 95eb9b00863260a1f2cfe0940002b53619b83eef[m
+Author: Eadgnus <de_crystal@naver.com>
+Date:   Sun May 28 23:45:59 2023 +0900
+
+    mypage router
